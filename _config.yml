@@ -2,8 +2,8 @@
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: jilaikeji@163.com
-brand: 上海集来科技有限公司
-headline: 专注于为用户服务的企业
+brand: 来宝
+headline: 玩游戏，得奖励
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
